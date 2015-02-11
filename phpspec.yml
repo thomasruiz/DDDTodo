@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: DDDTodo
+        psr4_prefix: DDDTodo
+        src_path: app
